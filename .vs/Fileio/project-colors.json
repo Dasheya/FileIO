@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "516a3c04-4c60-4246-b2ff-0bca8c493730": {
+      "ProjectGuid": "516a3c04-4c60-4246-b2ff-0bca8c493730",
+      "DisplayName": "FileIo",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "49e8b252-2a57-4c23-a4dd-504f09561841": {
+      "ProjectGuid": "49e8b252-2a57-4c23-a4dd-504f09561841",
+      "DisplayName": "Solution Items",
+      "ColorIndex": 1
+    },
+    "da9adb87-85d8-4e1c-a681-e2e6dfb40b1a": {
+      "ProjectGuid": "da9adb87-85d8-4e1c-a681-e2e6dfb40b1a",
+      "DisplayName": "SerializationDemo",
+      "ColorIndex": 2
+    },
+    "56dc56cd-6a80-4fc5-90ea-ca64fa37eb83": {
+      "ProjectGuid": "56dc56cd-6a80-4fc5-90ea-ca64fa37eb83",
+      "DisplayName": "SerializationDemo",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
